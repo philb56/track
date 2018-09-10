@@ -9,5 +9,7 @@ This includes all user registration + login logic
 # Config
 
 ./config/keys.js should export:
+
 mongoURI: "mongodb://`<un>:<pw>@<db>`"
+
 secretOrKey: "<somesecret>"
